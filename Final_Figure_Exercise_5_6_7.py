@@ -95,5 +95,5 @@ axes[2].grid(True, linestyle='--', alpha=0.5)
 
 # --- 3. Finalize and Save ---
 plt.tight_layout() # Prevents overlap between subplots
-plt.savefig('FFinal_Figure_Exercise_5_6_7.png')
+plt.savefig('Final_Figure_Exercise_5_6_7.png')
 print("Dashboard containing all 3 subplots created and saved successfully as 'Final_Dashboard_Ex5_6_7.png'.")
